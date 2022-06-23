@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+h1{
+    color: blue;
+}
+
+p {
+    /* border : 2px solid black; */
+    outline: 2px solid black ;
+    outline-offset: -1px;
+    padding: 15px;
+    text-align: center;
+    margin: 20px 0px;
+
+}
+
+.intro {
+    background-color: rgb(166, 251, 251);
+}
+.hobby {
+    background-color: rgb(253, 249, 126);
+}
+.work {
+    background-color: rgb(168, 250, 176);
+}
+
+#products {
+ 
+    width: 200px;
+}

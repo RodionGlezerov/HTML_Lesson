@@ -1,0 +1,28 @@
+#main p{
+    padding: 20px;
+    border: 2px solid black;
+
+}
+
+#main .about{
+    background-color: rgb(175, 100, 245);
+}
+
+#main .lesson{
+    background-color: rgb(126, 242, 203);
+}
+
+#films ol{
+    list-style-type: disc;
+}
+
+#films ul{
+    list-style-type: none ;
+}
+
+
+#films li{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}

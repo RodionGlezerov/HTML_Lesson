@@ -1,0 +1,12 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse; /* склеивание таблиц */
+}
+
+td, th{
+    width: 100px;
+}
+
+td{
+    height: 30px;
+}

@@ -1,0 +1,35 @@
+ *{      /* Обращение ко всем элементам*/
+
+    margin: 0px; 
+    padding: 0px;
+
+ } 
+
+ /* p { */ */
+    /* background-color: aqua; меняем фон у всех тектов в параграфе   */
+/* } */
+
+#p1 {      /* # для связи с id  */
+    color: brown;
+}
+
+.p2 {
+    /* background-color: blue;  меняем фон текста  */
+    width: 300px;    /* меняем ширину текста   */
+    
+}
+
+.p3 {
+    font-size:  40px;
+    /* background-color: crimson; */
+    border: 2px dashed black;  /*размер ширины рамки */
+    /* padding: 20px 30px 50px 90px;   */
+    /* padding это отступы */
+    padding: 0px 30px;
+    margin-top: 40px;
+
+}
+.red:hover {     /* hover делает функцию активной при наведении курсором */
+    color: brown;
+}
+
