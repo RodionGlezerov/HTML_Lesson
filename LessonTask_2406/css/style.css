@@ -1,0 +1,170 @@
+.main {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.main1 {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main3 {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main4 {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main5 {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main6 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main7 {
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.main_center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translate(-50%, -50%);
+    background-color: blueviolet;
+}
+.main_center1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    background-color:aqua
+}
+.main_center2 {
+    position: absolute;
+    right: 50%;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.main_center3 {
+    position: absolute;
+    right: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    background-color:bisque
+}
+.main_center4 {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    background-color:black
+}
+.main_center5 {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translate(-200%, -100%);
+    background-color:aquamarine;
+}
+.main_center6 {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translate(100%, -100%);
+    background-color:aquamarine;
+}
+.main_center7 {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translate(100%, 200%);
+    background-color:aquamarine;
+}
+.main_center8 {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translate(-200%, 200%);
+    background-color:aquamarine;
+}
+.main_center {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translate(-50%, -50%);
+    background-color:aquamarine;
+}
+
+.main0{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 20px;
+    left: 100px;
+    position: relative;
+}
+.close{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+}
