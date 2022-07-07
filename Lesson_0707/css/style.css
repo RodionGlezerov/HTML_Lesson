@@ -1,0 +1,22 @@
+*{
+    padding: 110px 0;
+    margin: 0;
+}
+
+.grid_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 5px;
+    /* grid-template-columns: 2fr 1fr ; */
+}
+
+.grid_item{
+    border: 1px dashed black;
+    padding: 20px;
+    text-align: center;
+}
+
+.item_1{
+    background-color: yellow;
+    grid-column: ;
+}
