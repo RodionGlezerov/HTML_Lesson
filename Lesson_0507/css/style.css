@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.text{
+    font-size: 24px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+@media screen and (max-width: 720px){
+    .text {
+        width: 200px; 
+        color: red;
+        border-color: aqua;  
+    }
+    .greeting{
+        display: none;
+    }
+}
+@media screen and (max-width: 300px){
+    .text {
+        width: 200px; 
+        color: orange;
+        border-color: aqua;  
+    }
+}
+
+@media print {
+    .text{
+        color: green;
+    }
+}
+
+
